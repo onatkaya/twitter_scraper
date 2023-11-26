@@ -16,7 +16,6 @@ cd twitter_scraper
 pip install selenium
 pip install beautifulsoup4
 npm install puppeteer
-
 ```
 
 ## Running "run_both" file for automatic utilization of .py and .js codefiles 
