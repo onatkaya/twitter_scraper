@@ -13,17 +13,18 @@ cd twitter_scraper
 ## Installing Necessary Dependencies
 
 ```
-chmod +x run_both.sh
-
-./run_both.sh
-```
-
-## Running "run_both" file for automatic utilization of both files (.py and .js)
-### For MacOS/Linux
-```
 pip install selenium
 pip install beautifulsoup4
 npm install puppeteer
+
+```
+
+## Running "run_both" file for automatic utilization of .py and .js codefiles 
+### For MacOS/Linux
+```
+chmod +x run_both.sh
+
+./run_both.sh
 ```
 ### For Windows
 ```
