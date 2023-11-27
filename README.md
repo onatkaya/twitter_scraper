@@ -1,4 +1,4 @@
-# tweet_scraper
+# twitter_scraper
 ## Description
 Have 
 For a detailed explanation about the motivation and implementation steps of this project check here.
