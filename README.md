@@ -30,4 +30,9 @@ chmod +x run_both.sh
 run_both.bat
 ```
 
+
+## Further Reading:
+- [Chris Lever's implementation](https://github.com/sitebee/TwitterScraper)
+- https://www.scrapingdog.com/blog/scrape-twitter/)
+
 Happy scraping!
