@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 
+# gives the cursor, for the next page
 def add_next_cursor(my_url):
 
 	driver = webdriver.Chrome()
