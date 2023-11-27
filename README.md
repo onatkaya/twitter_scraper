@@ -3,7 +3,7 @@
 A free method for scraping tweets, for a specific user. Building upon Chris Lever's (@sitebee) implementation by adding additional features. The tweets are scraped from Nitter, an open-source alternative of Twitter. 
  
 
-For a detailed explanation about the motivation and implementation steps of this project check here(https://medium.com).
+For a detailed explanation about the motivation and implementation steps of this project check here.
 
 ## Downloading the Repository
 
@@ -22,6 +22,8 @@ npm install puppeteer
 
 ## Running "run_both" file for automatic utilization of .py and .js codefiles 
 ### For MacOS/Linux:
+
+Before this, do not forget to assign the Nitter URL of the user that you want to scrape its tweets of to "my_url" variable.
 ```
 chmod +x run_both.sh
 
