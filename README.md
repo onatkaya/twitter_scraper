@@ -1,6 +1,6 @@
 # twitter_scraper
 ## Description
-A free method for scraping tweets, for a specific user. Building upon Chris Lever's (@sitebee) implementation by adding additional features. The tweets are scraped from Nitter, an open-source alternative of Twitter. 
+A free method for scraping tweets, for a specific user. Building upon Chris Lever's (@sitebee) implementation by adding additional features. The tweets are scraped from Nitter, an open-source alternative of Twitter where tweets of a user could be seen historically without any login. 
  
 
 For a detailed explanation about the motivation and implementation steps of this project check here.
