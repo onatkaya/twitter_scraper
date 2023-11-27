@@ -30,9 +30,14 @@ chmod +x run_both.sh
 run_both.bat
 ```
 
-
 ## Further Reading:
 - [Chris Lever's implementation](https://github.com/sitebee/TwitterScraper)
-- https://www.scrapingdog.com/blog/scrape-twitter/)
+- [Nitter - Wikipedia](https://en.wikipedia.org/wiki/Nitter)
+- https://www.scrapingdog.com/blog/scrape-twitter/
+- https://scrapeops.io/python-web-scraping-playbook/python-beautifulsoup-find/
+- https://pypi.org/project/beautifulsoup4/
+- https://pypi.org/project/selenium/
+- https://techcrunch.com/2023/02/01/twitter-to-end-free-access-to-its-api/
+- https://www.theverge.com/2023/5/31/23739084/twitter-elon-musk-api-policy-chilling-academic-research
 
 Happy scraping!
