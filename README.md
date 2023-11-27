@@ -21,13 +21,13 @@ npm install puppeteer
 ```
 
 ## Running "run_both" file for automatic utilization of .py and .js codefiles 
-### For MacOS/Linux
+### For MacOS/Linux:
 ```
 chmod +x run_both.sh
 
 ./run_both.sh
 ```
-### For Windows
+### For Windows:
 ```
 run_both.bat
 ```
