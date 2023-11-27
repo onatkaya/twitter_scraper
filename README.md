@@ -3,7 +3,7 @@
 A free method for scraping tweets for a specific user. The tweets are scraped from Nitter, an open-source alternative of Twitter. 
  
 
-For a detailed explanation about the motivation and implementation steps of this project check here(https://medium.com/p/7562fd8121cc/edit).
+For a detailed explanation about the motivation and implementation steps of this project check here(https://medium.com).
 
 ## Downloading the Repository
 
