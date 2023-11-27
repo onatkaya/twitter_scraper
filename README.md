@@ -23,7 +23,7 @@ npm install puppeteer
 ## Running "run_both" file for automatic utilization of .py and .js codefiles 
 ### For MacOS/Linux:
 
-Before this, do not forget to assign the Nitter URL of the user that you want to scrape its tweets of to "my_url" variable.
+IMPORTANT: Before this, do not forget to assign the Nitter URL of the user that you want to scrape its tweets of to "my_url" variable.
 ```
 chmod +x run_both.sh
 
