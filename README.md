@@ -20,7 +20,7 @@ pip install beautifulsoup4
 npm install puppeteer
 ```
 
-## Running "run_both" file for automatic utilization of .py and .js codefiles 
+## Running "run_both" file for automatic execution of .py and .js codefiles 
 ### For MacOS/Linux:
 
 IMPORTANT: Before this, do not forget to assign the Nitter URL of the user that you want to scrape its tweets of to "my_url" variable (in store_pages.py).
