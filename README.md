@@ -12,7 +12,7 @@ git clone https://github.com/onatkaya/twitter_scraper.git
 cd twitter_scraper
 ```
 
-## Installing Necessary Dependencies
+## Installing Dependencies
 
 ```
 pip install selenium
